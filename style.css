@@ -1,0 +1,52 @@
+.name {
+  font-size: 30px;
+  color: #e2c764;
+}
+
+.small-name {
+  color: #e2c764;
+}
+
+.header {
+  text-align: center;
+  color: #e2c764;
+  font-style: italic;
+}
+
+.skill-container > h3 {
+  text-align: left;
+  color: #e2c764;
+  font-style: italic;
+}
+
+.skill-container {
+  border: solid #a1a884;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 16px;
+  margin-bottom: 8px;
+}
+
+.borbor {
+  margin: auto;
+  padding: 10px;
+  width: 500px;
+}
+
+.pic-left {
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+.pic-right {
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.pic-leri {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
